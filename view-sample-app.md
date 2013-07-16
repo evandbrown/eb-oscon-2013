@@ -20,6 +20,6 @@ In the next section you'll download new application versions from GitHub and dep
 
 ---
 
-### [Next Step](choose-an-app.md)
+### [Next Step](get-new-app-versions.md)
 
 ---

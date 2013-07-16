@@ -48,6 +48,8 @@ Your application is now being deployed to an Elastic Beanstalk environment.
 
 ![](img/en/step_created-complete.png)
 
+## Pause
+
 Now we'll talk about AWS and Elastic Beanstalk before moving on to the next part of the hack session.
 
 ---

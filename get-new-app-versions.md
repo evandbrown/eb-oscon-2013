@@ -1,8 +1,10 @@
-# Choose an Application
+# Get New Application Versions
 
-Now you'll choose an application to deploy. Each app is in a GitHub repo with multiple releases (a release corresponds to a Git tag). Choose the language you're interested in and download all of the releases for that app to your computer. In the next section you will use Elastic Beanstalk to deploy those releases.
+Now you'll download several versions of a new app from a GitHub repo and prepare to deploy them to your Elastic Beanstalk environment. Each application is hosted in a GitHub repo, and versions are available as Releases.
 
 ## Languages and Applications
+
+Choose the language you selected when you chose the Platform for your Elastic Beanstalk application in the [Getting Started](getting-started.md) section:
 
 |         | | 
 |:-------------:| ------------- |
@@ -23,7 +25,7 @@ Now you'll choose an application to deploy. Each app is in a GitHub repo with mu
 	
 3. **Optional**: If you're up for it, browse the source for each tag:
 
-	![](img/en/step_app-version.png)
+	![](img/en/step_browse-tags.png)
 	
 ---
 

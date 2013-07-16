@@ -1,9 +1,8 @@
-Project Name: AWS Elastic Beanstalk: Zero to Cloud in Sixty Minutes
-Tagline: OSCON 2013 Birds of a Feather Session
+# OSCON 2013 Birds of a Feather Session
 
-## Welcome to the Session
+## AWS Elastic Beanstalk: Zero to Cloud in Sixty Minutes
 
-In this repository you'll find links to the slide deck and labs used in the OSCON 2013 Birds of a Feather session "AWS Elastic Beanstalk: Zero to Cloud in Sixty Minutes" presented by AWS Community Manager Evan Brown (@evandbrown).
+Welcome to the session! In this repository you'll find links to the slide deck and labs used in the OSCON 2013 Birds of a Feather session "AWS Elastic Beanstalk: Zero to Cloud in Sixty Minutes" presented by AWS Community Manager Evan Brown (@evandbrown).
 
 ### Slides
 Sort-of. The Prezi used in this session can be found at [insert link here](insert link here). We'll spend about 15 minutes covering the fundamentals of AWS Elastic Beanstalk.
@@ -15,6 +14,10 @@ There are 4 applications to choose from: [Python](github.com/awslabs/eb-python-f
 
 #### Requirements
 To complete the lab, you'll need an existing AWS Account. Begin with the **Getting Started** section below.
+
+## IMPORTANT
+You'll be deploying a live application to AWS Elastic Beanstalk. Although the application you'll deploy falls within the [AWS Free Tier](https://aws.amazon.com/free) for 1 year, be sure to **delete the application before leaving this session** by following [these instructions](important.md).
+
 
 ---
 
