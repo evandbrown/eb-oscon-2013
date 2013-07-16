@@ -23,7 +23,9 @@ Choose the language you selected when you chose the Platform for your Elastic Be
 
 	![](img/en/step_github-download-releases.png)
 	
-3. **Optional**: If you're up for it, browse the source for each tag:
+3. Browse the release notes for each version to get an idea of what's changing between releases 
+	
+4. **Optional**: If you're up for it, browse the source for each release tag:
 
 	![](img/en/step_browse-tags.png)
 	
