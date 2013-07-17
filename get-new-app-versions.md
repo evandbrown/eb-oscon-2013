@@ -9,7 +9,7 @@ Choose the language you selected when you chose the Platform for your Elastic Be
 |         | | 
 |:-------------:| ------------- |
 | ![Node.js](img/node_logo.png)      | [http://github.com/awslabs/eb-node-express](http://github.com/awslabs/eb-node-express) |
-| ![PHP](img/php-logo.png)    |   [http://github.com/awslabs/eb-php-symfony2](http://github.com/awslabs/eb-php-symfony2) |
+| ![PHP](img/php-logo.png)    |   [http://github.com/awslabs/eb-php-cakephp](http://github.com/awslabs/eb-php-cakephp) |
 | ![Python](img/python-logo.png) |    [http://github.com/awslabs/eb-python-flask](http://github.com/awslabs/eb-python-flask) |
 | ![Ruby](img/ruby-logo.png) |    [http://github.com/awslabs/eb-ruby-rails](http://github.com/awslabs/eb-ruby-rails) |
 
