@@ -10,7 +10,7 @@ Sort-of. The Prezi used in this session can be found at [insert link here](inser
 ### Hack Time Overview
 We'll have about 45 minutes for lab/hack time. Our goal here is for everyone to deploy an application to an Elastic Beanstalk environment, then deploy and manage additional app versions to that env. 
 
-There are 4 applications to choose from: [Python](github.com/awslabs/eb-python-flask), [Node.js](github.com/awslabs/eb-node-express), [PHP](github.com/awslabs/eb-php-symfony2), and [Ruby](github.com/awslabs/eb-ruby-rails). Each app is a GitHub project with several releases (i.e., 1.0.0, 1.1.0, etc...). **Each release adds some new functionality**, and you'll be deploying them to your Elastic Beanstalk environment.
+There are 2 applications to choose from: [Node.js](github.com/awslabs/eb-node-express) and [Python](github.com/awslabs/eb-python-flask). Each app is a GitHub project with several releases (i.e., 1.0.0, 1.1.0, etc...). **Each release adds some new functionality**, and you'll be deploying them to your Elastic Beanstalk environment.
 
 #### Requirements
 To complete the lab, you'll need an existing AWS Account. Begin with the **Getting Started** section below.

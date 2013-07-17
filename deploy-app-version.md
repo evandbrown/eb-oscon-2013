@@ -41,9 +41,7 @@ Refer to the release notes for the app/version that you just deployed for detail
 |         |   |
 |:-------------:| ------------- 
 | ![Node.js](img/node_logo.png) |  [Release Notes](http://github.com/awslabs/eb-node-express/releases) |
-| ![PHP](img/php-logo.png)   | [Release Notes](http://github.com/awslabs/eb-php-cakephp/releases) |
 | ![Python](img/python-logo.png) | [Release Notes](http://github.com/awslabs/eb-python-flask/releases) |
-| ![Ruby](img/ruby-logo.png) | [Release Notes](http://github.com/awslabs/eb-ruby-rails/releases)
 	
 ### Repeat
 
