@@ -5,7 +5,9 @@
 Welcome to the session! In this repository you'll find links to the slide deck and labs used in the OSCON 2013 Birds of a Feather session "AWS Elastic Beanstalk: Zero to Cloud in Sixty Minutes" presented by AWS Community Manager Evan Brown (@evandbrown).
 
 ### Slides
-Sort-of. The Prezi used in this session can be found at [insert link here](insert link here). We'll spend about 15 minutes covering the fundamentals of AWS Elastic Beanstalk.
+The Prezi used in this session can below. We'll spend about 15 minutes covering the fundamentals of AWS and Elastic Beanstalk.
+
+[![](img/en/prezi_intro.png)](http://prezi.com/lxpcph-gnxka/beanstalk-oscon/)
 
 ### Hack Time Overview
 We'll have about 45 minutes for lab/hack time. Our goal here is for everyone to deploy an application to an Elastic Beanstalk environment, then deploy and manage additional app versions to that env. 
