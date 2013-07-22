@@ -29,7 +29,6 @@ Refer to the release notes for the app/version that you just deployed for detail
 | ![Node.js](img/node_logo.png) |  [Release Notes](http://github.com/awslabs/eb-node-express/releases) |
 | ![Python](img/python-logo.png) | [Release Notes](http://github.com/awslabs/eb-python-flask/releases) |
 
-<a id="change-software-config">
 #### Changing Software Configuration
 
 If the version you deployed asks you to change your application's software configuration settings, follow these steps:
