@@ -14,7 +14,7 @@ Let's begin the session by launching a sample app that we'll work with later.
 
 	![](img/en/step_name-app.png)
 
-4. Choose **Node.js, PHP, Python, or Ruby** for platform, and select a **Load balancing, autoscaling** environment:
+4. Choose **Node.js or Python** for platform, and select a **Load balancing, autoscaling** environment:
 
 	![](img/en/step_choose-platform.png)
 	

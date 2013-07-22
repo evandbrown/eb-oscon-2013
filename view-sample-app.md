@@ -4,7 +4,7 @@ View the Sample Application you deployed to your Elastic Beanstalk environment i
 
 ## Step-by-Step
 
-1. Your application is ready when its **Environment Status** is Green:
+1. Your application is ready when its **Environment Health** is Green:
 
 	![](img/en/step_view-sample-app.png)
 
